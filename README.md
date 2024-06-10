@@ -8,6 +8,7 @@ sudo apt update
 sudo apt install software-properties-common
 sudo apt install curl
 sudo apt update
+```
 
 ```sh
 # Install Python 3.9
